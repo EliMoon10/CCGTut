@@ -1,6 +1,8 @@
 # CCGTut
 티스토리 개발자의 서재 https://www.moonstudio.kro.kr/
 
+네이버 블로그 개발자의 서재 : https://gijun0410.blog.me/
+
 (part 항목은 새로운 글이 포스팅 될때마다 업데이트 됩니다.)
 
 part1. json을 이용한 카드 데이터 저장과 불러오기
