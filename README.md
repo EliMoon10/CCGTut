@@ -1,4 +1,6 @@
 # CCGTut
+카드게임 만들기 Make CCG
+
 티스토리 개발자의 서재 https://www.moonstudio.kro.kr/
 
 네이버 블로그 개발자의 서재 : https://gijun0410.blog.me/
